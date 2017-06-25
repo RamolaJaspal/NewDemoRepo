@@ -1,7 +1,7 @@
 <<<<<<< HEAD
 void main()
 {
-	
+	hello;
 	
 }
 =======
